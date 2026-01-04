@@ -31,6 +31,3 @@ The average length of stay is 2.37 days, indicating dominance of short or weeken
 
 10) Demand and Revenue Are Seasonally and Weekly Volatile
 Bookings peak in May, decline afterward, and RevPAR fluctuates weekly even when ADR remains stable, confirming that demand variation—not pricing—is the key revenue driver.
-
-🔟 Demand and Revenue Are Seasonally and Weekly Volatile
-Bookings peak in May, decline afterward, and RevPAR fluctuates weekly even when ADR remains stable, confirming that demand variation—not pricing—is the key revenue driver.
